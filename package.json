@@ -1,6 +1,7 @@
 {
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
-  "name": "stack-trace",
+  "contributors": [["Michael Weichert (http://www.mweichert.com/)", "Joshua Richardson (https://github.com/jric)"]],
+  "name": "stack-trace-anynode",
   "description": "Get v8 stack traces as an array of CallSite objects.",
   "version": "1.0.0-pre2",
   "homepage": "https://github.com/felixge/node-stack-trace",
